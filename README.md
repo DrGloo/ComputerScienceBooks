@@ -1,6 +1,6 @@
 # Computer Science Books
 
-A curated collection of **66 computer science textbooks** spanning algorithms, programming languages, machine learning, compilers, operating systems, software engineering, and more.
+A curated collection of **72 computer science textbooks** spanning algorithms, programming languages, machine learning, compilers, operating systems, software engineering, and more.
 
 Whether you're a student building fundamentals, a developer preparing for interviews, or a researcher diving into ML and computer vision — this library gives you direct access to high-quality references across the full CS curriculum.
 
@@ -55,6 +55,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 | **OCA/OCP Java SE 7 Study Guide** | Sierra & Bates | Certification-focused but excellent for deeply understanding Java semantics and gotchas. |
 | **Beginning Java 7** | Jeff Friesen | Thorough introduction to Java 7 features, ideal for developers new to the language. |
 | **Teach Yourself Java in 21 Days** | Laura Lemay & Charles Perkins | Structured, day-by-day Java learning path — a classic self-paced intro. |
+| **Effective Java** (3rd Ed.) | Joshua Bloch | Idiomatic Java from the language architect's perspective — items on generics, concurrency, lambdas, and API design. |
 
 ### Python
 
@@ -72,6 +73,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 | Book | Author(s) | Why It Matters |
 |------|-----------|----------------|
 | **CSS** | — | Core reference for styling and layout on the web. |
+| **Mastering JavaScript Object-Oriented Programming** | Andrea Chiarelli | Builds solid OOP habits in JS — prototypes, ES6 classes, patterns, and maintainable browser and Node code. |
 
 ### Databases & Data Engineering
 
@@ -80,6 +82,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 | **Database System Concepts** (6th Ed.) | Silberschatz, Korth & Sudarshan | The gold-standard academic textbook on relational databases, transactions, and query processing. |
 | **Database Systems** | Navathe | Comprehensive coverage of database design, ER modeling, normalization, and SQL. |
 | **Fundamentals of Data Engineering** | Reis & Housley | A modern take on the data engineering lifecycle — pipelines, storage, orchestration, and more. |
+| **The Art of SQL** | Stephane Faroult & Peter Robson | SQL as engineering — performance, schema design, and query thinking for real production databases. |
 
 ### Machine Learning, AI & Computer Vision
 
@@ -121,6 +124,9 @@ Whether you're a student building fundamentals, a developer preparing for interv
 | Book | Author(s) | Why It Matters |
 |------|-----------|----------------|
 | **Code Complete** (2nd Ed.) | Steve McConnell | The most comprehensive guide to software construction — variable naming to integration testing. |
+| **Clean Code** | Robert C. Martin | Hands-on rules for naming, functions, classes, and tests — the book that popularized "readable code" as a discipline. |
+| **The Clean Coder** | Robert C. Martin | Professional conduct — estimates, saying no, focus, and the habits that keep teams shipping without burning out. |
+| **Working Effectively with Legacy Code** | Michael Feathers | The playbook for changing code without tests: seams, characterization tests, and safe refactors in brownfield systems. |
 | **The Pragmatic Programmer** | David Thomas & Andrew Hunt | The definitive guide to thinking like a professional developer — DRY, automation, and craft. |
 | **The Art of Readable Code** | Boswell & Foucher | Short, opinionated, and incredibly practical — teaches you to write code humans can actually read. |
 | **Design Patterns: Elements of Reusable OO Software** | Gamma, Helm, Johnson & Vlissides | The "Gang of Four" book — the origin of the design patterns movement. |
@@ -142,7 +148,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 ## Suggested Reading Paths
 
 **Just starting out in CS?**
-> `Let Us C` | `Head First Python` | `The Pragmatic Programmer` | `Code Complete` | `Cracking the Coding Interview`
+> `Let Us C` | `Head First Python` | `The Pragmatic Programmer` | `Clean Code` | `Code Complete` | `Cracking the Coding Interview`
 
 **Going deep on algorithms?**
 > `Introduction to Algorithms (CLRS)` | `Algorithm Design Manual` | `Algorithms (Sedgewick)` | `Programming Collective Intelligence`
@@ -154,7 +160,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 > `Computer Systems (Bryant & O'Hallaron)` | `Modern Operating Systems (Tanenbaum)` | `System Programming` | `Professional Assembly Language`
 
 **Focused on backend / data?**
-> `Database System Concepts` | `Fundamentals of Data Engineering` | `Python for Data Analysis` | `Computer Networking`
+> `Database System Concepts` | `The Art of SQL` | `Fundamentals of Data Engineering` | `Python for Data Analysis` | `Computer Networking`
 
 **Breaking into machine learning?**
 > `Pattern Recognition and ML (Bishop)` | `Deep Learning (Goodfellow)` | `Machine Learning in Action` | `Elements of Statistical Learning`
@@ -164,6 +170,12 @@ Whether you're a student building fundamentals, a developer preparing for interv
 
 **Going deep on theory?**
 > `Introduction to Computer Theory (Cohen)` | `Theory of Computation (Linz)` | `Algorithm Design Manual`
+
+**Professional Java on the JVM?**
+> `Effective Java` | `Java: The Complete Reference` | `OCA/OCP Java SE 7 Study Guide`
+
+**Maintaining or modernizing old codebases?**
+> `Working Effectively with Legacy Code` | `Clean Code` | `The Clean Coder`
 
 ---
 
