@@ -1,6 +1,6 @@
 # Computer Science Books
 
-A curated collection of **72 computer science textbooks** spanning algorithms, programming languages, machine learning, compilers, operating systems, software engineering, and more.
+A curated collection of **73 computer science textbooks** spanning algorithms, programming languages, machine learning, compilers, operating systems, software engineering, and more.
 
 Whether you're a student building fundamentals, a developer preparing for interviews, or a researcher diving into ML and computer vision — this library gives you direct access to high-quality references across the full CS curriculum.
 
@@ -82,6 +82,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 | **Database System Concepts** (6th Ed.) | Silberschatz, Korth & Sudarshan | The gold-standard academic textbook on relational databases, transactions, and query processing. |
 | **Database Systems** | Navathe | Comprehensive coverage of database design, ER modeling, normalization, and SQL. |
 | **Fundamentals of Data Engineering** | Reis & Housley | A modern take on the data engineering lifecycle — pipelines, storage, orchestration, and more. |
+| **Designing Data-Intensive Applications** | Martin Kleppmann | The modern standard for building reliable, scalable, and maintainable data systems — replication, partitioning, stream processing, and the trade-offs behind production architectures. |
 | **The Art of SQL** | Stephane Faroult & Peter Robson | SQL as engineering — performance, schema design, and query thinking for real production databases. |
 
 ### Machine Learning, AI & Computer Vision
@@ -160,7 +161,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 > `Computer Systems (Bryant & O'Hallaron)` | `Modern Operating Systems (Tanenbaum)` | `System Programming` | `Professional Assembly Language`
 
 **Focused on backend / data?**
-> `Database System Concepts` | `The Art of SQL` | `Fundamentals of Data Engineering` | `Python for Data Analysis` | `Computer Networking`
+> `Database System Concepts` | `Designing Data-Intensive Applications` | `The Art of SQL` | `Fundamentals of Data Engineering` | `Python for Data Analysis` | `Computer Networking`
 
 **Breaking into machine learning?**
 > `Pattern Recognition and ML (Bishop)` | `Deep Learning (Goodfellow)` | `Machine Learning in Action` | `Elements of Statistical Learning`
