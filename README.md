@@ -1,6 +1,6 @@
 # Computer Science Books
 
-A curated collection of **73 computer science textbooks** spanning algorithms, programming languages, machine learning, compilers, operating systems, software engineering, and more.
+A curated collection of **74 computer science textbooks** spanning algorithms, programming languages, machine learning, compilers, operating systems, software engineering, and more.
 
 Whether you're a student building fundamentals, a developer preparing for interviews, or a researcher diving into ML and computer vision — this library gives you direct access to high-quality references across the full CS curriculum.
 
@@ -119,6 +119,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 | **Professional Assembly Language** | Richard Blum | Practical guide to x86 assembly — invaluable for understanding what compilers actually produce. |
 | **CUDA by Example** | Jason Sanders & Edward Kandrot | Hands-on GPU programming with CUDA — the entry point for parallel computing on NVIDIA hardware. |
 | **Computer Networking and the Internet** (5th Ed.) | Douglas Comer | Covers networking from physical layer to application protocols with clarity and depth. |
+| [**System Design Interview** — An Insider's Guide (2nd Ed.)](SystemDesignInterview.pdf) | Alex Xu | Interview-focused system design — scalability trade-offs, component choices, and detailed solutions to classic large-system questions. |
 
 ### Software Engineering & Design Patterns
 
@@ -161,7 +162,7 @@ Whether you're a student building fundamentals, a developer preparing for interv
 > `Computer Systems (Bryant & O'Hallaron)` | `Modern Operating Systems (Tanenbaum)` | `System Programming` | `Professional Assembly Language`
 
 **Focused on backend / data?**
-> `Database System Concepts` | `Designing Data-Intensive Applications` | `The Art of SQL` | `Fundamentals of Data Engineering` | `Python for Data Analysis` | `Computer Networking`
+> `Database System Concepts` | `Designing Data-Intensive Applications` | `System Design Interview` | `The Art of SQL` | `Fundamentals of Data Engineering` | `Python for Data Analysis` | `Computer Networking`
 
 **Breaking into machine learning?**
 > `Pattern Recognition and ML (Bishop)` | `Deep Learning (Goodfellow)` | `Machine Learning in Action` | `Elements of Statistical Learning`
